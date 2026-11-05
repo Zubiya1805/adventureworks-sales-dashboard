@@ -25,3 +25,8 @@ Power BI, DAX, data modelling (Sales, Reseller, Salesperson, Territory tables)
 
 ## How to open
 Download AdventureWorks.pbix and open it in Power BI Desktop.
+
+   ![Overview](images/page1-overview.png)
+   ![Geography](images/page2-geography.png)
+   ![Resellers](images/page3-resellers.png)
+   ![Data model](images/data-model.png)
